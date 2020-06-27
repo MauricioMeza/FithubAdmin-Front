@@ -1,0 +1,19 @@
+[
+    {
+        "id": 0,
+        "startDate": "February 14, 2020 11:00 AM",
+        "type": "Clase de box"
+    },
+
+    {
+        "id": 1,
+        "startDate": "March 4, 2020 12:00 AM",
+        "type": "Clase de box"
+    },
+    
+    {
+        "id": 2,
+        "startDate": "April 14, 2020 1:00 PM",
+        "type": "Clase de box"
+    }
+] 
